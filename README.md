@@ -26,8 +26,8 @@ The dataset consists of:
 ## 📜 How to Install & Run
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/book-recommendation-system.git
-   cd book-recommendation-system
+   git clone https://github.com/yourusername/book-rcmd.git
+   cd book-rcmd
    ```
 2. **Create & Activate a Virtual Environment** (optional but recommended):
    ```bash
